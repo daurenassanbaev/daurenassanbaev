@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dauren</h1>
 <h3 align="center">Java Back End Developer, 2 year student at SDU. My Telegram : @daurenassanbaev</h3>
 <div align="center">
-  <img alt="Coding" width="100%" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper.gif">
+  <img alt="Coding" width="100%" height="300px" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper.gif">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daurenassanbaev&label=Profile%20views&color=0e75b6&style=flat" alt="daurenassanbaev" /> </p>
 
