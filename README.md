@@ -5,7 +5,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daurenassanbaev&label=Profile%20views&color=0e75b6&style=flat" alt="daurenassanbaev" /> </p>
 
-- 🌱 I’m currently learning **AWS, Redis, Spring Cloud, Kubernetes**
+- 🌱 I’m currently learning **Kafka, Redis, Kubernetes, JavaScript**
 
 - 📫 How to reach me **sharinganyt430@gmail.com**
 
